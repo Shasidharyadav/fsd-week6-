@@ -1,0 +1,518 @@
+{
+  "food_items": [
+    {
+      "allergens": ["None"],
+      "food_group": "Grains",
+      "description": "A refreshing salad made with quinoa, vegetables, and herbs.",
+      "ingredients": [
+        "Quinoa",
+        "Tomatoes",
+        "Cucumbers",
+        "Bell Peppers",
+        "Red Onion",
+        "Lemon Juice",
+        "Olive Oil",
+        "Salt",
+        "Pepper"
+      ],
+      "serving_size": "1 cup",
+      "certifications": ["Non-GMO"],
+      "food_item_name": "Quinoa Salad",
+      "health_benefits": [
+        "High in protein",
+        "Rich in fiber",
+        "Packed with antioxidants"
+      ],
+      "country_of_origin": "Peru",
+      "preparation_methods": [
+        "Cook quinoa, chop vegetables, mix together, season with lemon juice, olive oil, salt, and pepper."
+      ],
+      "dietary_restrictions": ["Gluten-Free", "Vegan"],
+      "brand_or_manufacturer": "Healthy Harvest",
+      "nutritional_information": {
+        "fat": 8,
+        "fiber": 5,
+        "protein": 6,
+        "calories": 200,
+        "carbohydrates": 30
+      }
+    },
+    {
+      "allergens": ["Fish"],
+      "food_group": "Seafood",
+      "description": "Fresh salmon fillet, perfect for grilling or baking.",
+      "ingredients": ["Salmon"],
+      "serving_size": "4 oz",
+      "certifications": ["Sustainably Sourced"],
+      "food_item_name": "Salmon Fillet",
+      "health_benefits": [
+        "High in Omega-3 fatty acids",
+        "Excellent source of protein"
+      ],
+      "country_of_origin": "Norway",
+      "preparation_methods": [
+        "Season with salt, pepper, and olive oil. Grill or bake until cooked through."
+      ],
+      "dietary_restrictions": ["Paleo", "Keto"],
+      "brand_or_manufacturer": "Ocean's Bounty",
+      "nutritional_information": {
+        "fat": 15,
+        "fiber": 0,
+        "protein": 25,
+        "calories": 250,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "allergens": ["Dairy"],
+      "food_group": "Dairy",
+      "description": "Creamy Greek yogurt made from strained yogurt, with a tangy flavor.",
+      "ingredients": ["Milk", "Live Active Cultures"],
+      "serving_size": "6 oz",
+      "certifications": ["Organic"],
+      "food_item_name": "Greek Yogurt",
+      "health_benefits": ["High in probiotics", "Rich in calcium"],
+      "country_of_origin": "Greece",
+      "preparation_methods": [
+        "Strain yogurt to remove excess liquid. Serve chilled."
+      ],
+      "dietary_restrictions": ["Lactose-Free"],
+      "brand_or_manufacturer": "Olympus Dairy",
+      "nutritional_information": {
+        "fat": 4,
+        "fiber": 0,
+        "protein": 15,
+        "calories": 120,
+        "carbohydrates": 8
+      }
+    },
+    {
+      "allergens": ["Eggs", "Dairy"],
+      "food_group": "Vegetables",
+      "description": "A twist on the classic Caesar salad, featuring kale instead of romaine lettuce.",
+      "ingredients": [
+        "Kale",
+        "Croutons",
+        "Parmesan Cheese",
+        "Caesar Dressing",
+        "Lemon Juice",
+        "Olive Oil",
+        "Anchovies",
+        "Garlic",
+        "Dijon Mustard"
+      ],
+      "serving_size": "2 cups",
+      "certifications": ["None"],
+      "food_item_name": "Kale Caesar Salad",
+      "health_benefits": ["High in Vitamin K", "Rich in antioxidants"],
+      "country_of_origin": "United States",
+      "preparation_methods": [
+        "Massage kale with lemon juice and olive oil. Toss with dressing, croutons, and cheese."
+      ],
+      "dietary_restrictions": ["Vegetarian"],
+      "brand_or_manufacturer": "Green Leaf Farms",
+      "nutritional_information": {
+        "fat": 12,
+        "fiber": 5,
+        "protein": 8,
+        "calories": 180,
+        "carbohydrates": 15
+      }
+    },
+    {
+      "allergens": ["None"],
+      "food_group": "Grains",
+      "description": "A hearty bowl featuring quinoa, roasted vegetables, and a protein of your choice.",
+      "ingredients": [
+        "Quinoa",
+        "Roasted Vegetables (Zucchini, Bell Peppers, Onions)",
+        "Grilled Chicken",
+        "Avocado",
+        "Lemon Tahini Dressing"
+      ],
+      "serving_size": "1 bowl",
+      "certifications": ["Gluten-Free", "Organic"],
+      "food_item_name": "Quinoa Bowl",
+      "health_benefits": ["Balanced macronutrients", "Rich in fiber"],
+      "country_of_origin": "Bolivia",
+      "preparation_methods": [
+        "Cook quinoa, roast vegetables, grill chicken. Assemble bowl with quinoa, vegetables, chicken, and avocado. Drizzle with dressing."
+      ],
+      "dietary_restrictions": ["Gluten-Free"],
+      "brand_or_manufacturer": "Superfoods Co.",
+      "nutritional_information": {
+        "fat": 10,
+        "fiber": 8,
+        "protein": 20,
+        "calories": 350,
+        "carbohydrates": 45
+      }
+    },
+    {
+      "allergens": ["None"],
+      "food_group": "Fruits",
+      "description": "A vibrant salsa made with ripe mangoes, tomatoes, onions, and cilantro.",
+      "ingredients": [
+        "Mangoes",
+        "Tomatoes",
+        "Onions",
+        "Cilantro",
+        "Lime Juice",
+        "Salt",
+        "Pepper"
+      ],
+      "serving_size": "1/2 cup",
+      "certifications": ["Non-GMO"],
+      "food_item_name": "Mango Salsa",
+      "health_benefits": ["Rich in Vitamin C", "Low in calories"],
+      "country_of_origin": "Mexico",
+      "preparation_methods": [
+        "Dice mangoes, tomatoes, and onions. Mix with chopped cilantro, lime juice, salt, and pepper."
+      ],
+      "dietary_restrictions": ["Vegan"],
+      "brand_or_manufacturer": "Tropical Fresh",
+      "nutritional_information": {
+        "fat": 0.5,
+        "fiber": 2,
+        "protein": 1,
+        "calories": 50,
+        "carbohydrates": 12
+      }
+    },
+    {
+      "allergens": ["None"],
+      "food_group": "Legumes",
+      "description": "A comforting soup made with black beans, tomatoes, onions, and spices.",
+      "ingredients": [
+        "Black Beans",
+        "Tomatoes",
+        "Onions",
+        "Garlic",
+        "Cumin",
+        "Chili Powder",
+        "Vegetable Broth"
+      ],
+      "serving_size": "1 cup",
+      "certifications": ["Vegan", "Gluten-Free"],
+      "food_item_name": "Black Bean Soup",
+      "health_benefits": ["High in fiber", "Source of plant-based protein"],
+      "country_of_origin": "United States",
+      "preparation_methods": [
+        "Soak beans overnight. Cook with tomatoes, onions, garlic, and spices until tender. Blend until smooth."
+      ],
+      "dietary_restrictions": ["Vegetarian", "Vegan", "Gluten-Free"],
+      "brand_or_manufacturer": "Homestyle Soups",
+      "nutritional_information": {
+        "fat": 1.5,
+        "fiber": 8,
+        "protein": 9,
+        "calories": 180,
+        "carbohydrates": 30
+      }
+    },
+    {
+      "allergens": ["Gluten (if using bread)"],
+      "food_group": "Fruits",
+      "description": "A popular breakfast or snack featuring mashed avocado on toasted bread.",
+      "ingredients": [
+        "Avocado",
+        "Bread",
+        "Lemon Juice",
+        "Salt",
+        "Pepper",
+        "Red Pepper Flakes (optional)"
+      ],
+      "serving_size": "1 slice",
+      "certifications": ["None"],
+      "food_item_name": "Avocado Toast",
+      "health_benefits": ["Healthy fats", "Rich in fiber"],
+      "country_of_origin": "Mexico",
+      "preparation_methods": [
+        "Toast bread. Mash avocado with lemon juice, salt, and pepper. Spread onto toast. Sprinkle with red pepper flakes if desired."
+      ],
+      "dietary_restrictions": ["Vegetarian", "Vegan"],
+      "brand_or_manufacturer": "Avocado Delight",
+      "nutritional_information": {
+        "fat": 15,
+        "fiber": 8,
+        "protein": 5,
+        "calories": 220,
+        "carbohydrates": 20
+      }
+    },
+    {
+      "allergens": ["Soy"],
+      "food_group": "Poultry",
+      "description": "A quick and flavorful stir-fry made with chicken, vegetables, and a savory sauce.",
+      "ingredients": [
+        "Chicken Breast",
+        "Broccoli",
+        "Bell Peppers",
+        "Carrots",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Soy Sauce",
+        "Sesame Oil",
+        "Cornstarch"
+      ],
+      "serving_size": "1 cup",
+      "certifications": ["None"],
+      "food_item_name": "Chicken Stir-Fry",
+      "health_benefits": ["High in protein", "Low in carbohydrates"],
+      "country_of_origin": "United States",
+      "preparation_methods": [
+        "Marinate chicken in soy sauce and cornstarch. Stir-fry with vegetables, garlic, and ginger. Add sauce and cook until thickened."
+      ],
+      "dietary_restrictions": ["None"],
+      "brand_or_manufacturer": "Quick Wok",
+      "nutritional_information": {
+        "fat": 12,
+        "fiber": 5,
+        "protein": 25,
+        "calories": 300,
+        "carbohydrates": 20
+      }
+    },
+    {
+      "allergens": ["Dairy", "Eggs"],
+      "food_group": "Dairy",
+      "description": "A fluffy omelette filled with sautéed spinach and tangy feta cheese.",
+      "ingredients": [
+        "Eggs",
+        "Spinach",
+        "Feta Cheese",
+        "Butter",
+        "Salt",
+        "Pepper"
+      ],
+      "serving_size": "1 omelette",
+      "certifications": ["Free-Range Eggs"],
+      "food_item_name": "Spinach and Feta Omelette",
+      "health_benefits": ["Rich in calcium", "High in protein"],
+      "country_of_origin": "United States",
+      "preparation_methods": [
+        "Sauté spinach in butter until wilted. Beat eggs with salt and pepper. Pour into pan and add spinach and feta. Cook until set."
+      ],
+      "dietary_restrictions": ["Vegetarian"],
+      "brand_or_manufacturer": "Farm Fresh",
+      "nutritional_information": {
+        "fat": 18,
+        "fiber": 2,
+        "protein": 20,
+        "calories": 250,
+        "carbohydrates": 4
+      }
+    },
+    {
+      "allergens": ["Tree Nuts (if using almond milk)"],
+      "food_group": "Seeds",
+      "description": "A creamy pudding made with chia seeds, almond milk, and sweetener.",
+      "ingredients": [
+        "Chia Seeds",
+        "Almond Milk",
+        "Maple Syrup",
+        "Vanilla Extract"
+      ],
+      "serving_size": "1/2 cup",
+      "certifications": ["Non-GMO", "Gluten-Free"],
+      "food_item_name": "Chia Seed Pudding",
+      "health_benefits": ["Rich in omega-3 fatty acids", "High in fiber"],
+      "country_of_origin": "United States",
+      "preparation_methods": [
+        "Mix chia seeds, almond milk, maple syrup, and vanilla extract. Refrigerate overnight until thickened."
+      ],
+      "dietary_restrictions": ["Vegetarian", "Vegan", "Gluten-Free"],
+      "brand_or_manufacturer": "Chia Heaven",
+      "nutritional_information": {
+        "fat": 8,
+        "fiber": 10,
+        "protein": 5,
+        "calories": 150,
+        "carbohydrates": 15
+      }
+    },
+    {
+      "allergens": ["Sesame"],
+      "food_group": "Legumes",
+      "description": "A creamy dip made from chickpeas, tahini, lemon, and garlic.",
+      "ingredients": [
+        "Chickpeas",
+        "Tahini",
+        "Lemon Juice",
+        "Garlic",
+        "Olive Oil",
+        "Salt"
+      ],
+      "serving_size": "2 tbsp",
+      "certifications": ["Non-GMO"],
+      "food_item_name": "Hummus",
+      "health_benefits": [
+        "Source of plant-based protein",
+        "Rich in healthy fats"
+      ],
+      "country_of_origin": "Middle East",
+      "preparation_methods": ["Blend all ingredients until smooth."],
+      "dietary_restrictions": ["Vegetarian", "Vegan"],
+      "brand_or_manufacturer": "Mediterranean Delights",
+      "nutritional_information": {
+        "fat": 4,
+        "fiber": 2,
+        "protein": 2,
+        "calories": 70,
+        "carbohydrates": 6
+      }
+    },
+    {
+      "allergens": ["Dairy (if using yogurt)"],
+      "food_group": "Fruits",
+      "description": "A refreshing smoothie made with mixed berries, yogurt, and honey.",
+      "ingredients": [
+        "Mixed Berries (Strawberries, Blueberries, Raspberries)",
+        "Yogurt",
+        "Honey",
+        "Ice"
+      ],
+      "serving_size": "1 cup",
+      "certifications": ["None"],
+      "food_item_name": "Mixed Berry Smoothie",
+      "health_benefits": ["Rich in antioxidants", "High in Vitamin C"],
+      "country_of_origin": "United States",
+      "preparation_methods": [
+        "Blend berries, yogurt, honey, and ice until smooth."
+      ],
+      "dietary_restrictions": ["Vegetarian"],
+      "brand_or_manufacturer": "Berry Blast",
+      "nutritional_information": {
+        "fat": 2,
+        "fiber": 6,
+        "protein": 5,
+        "calories": 150,
+        "carbohydrates": 30
+      }
+    },
+    {
+      "allergens": ["Fish", "Soy (if using soy sauce)"],
+      "food_group": "Seafood",
+      "description": "Traditional Japanese sushi rolls with a variety of fillings.",
+      "ingredients": [
+        "Sushi Rice",
+        "Nori (Seaweed)",
+        "Fish (Tuna, Salmon, Yellowtail)",
+        "Cucumber",
+        "Avocado",
+        "Soy Sauce",
+        "Wasabi",
+        "Pickled Ginger"
+      ],
+      "serving_size": "6 pieces",
+      "certifications": ["Sustainably Sourced Fish"],
+      "food_item_name": "Sushi Rolls",
+      "health_benefits": ["Source of Omega-3 fatty acids", "High in protein"],
+      "country_of_origin": "Japan",
+      "preparation_methods": [
+        "Spread rice on nori, add fillings, roll tightly. Slice into pieces."
+      ],
+      "dietary_restrictions": ["Pescatarian"],
+      "brand_or_manufacturer": "Tokyo Sushi",
+      "nutritional_information": {
+        "fat": 5,
+        "fiber": 3,
+        "protein": 15,
+        "calories": 250,
+        "carbohydrates": 40
+      }
+    },
+    {
+      "allergens": ["Dairy"],
+      "food_group": "Dairy",
+      "description": "A simple Italian salad made with fresh tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "Tomatoes",
+        "Fresh Mozzarella Cheese",
+        "Basil Leaves",
+        "Balsamic Glaze",
+        "Olive Oil",
+        "Salt",
+        "Pepper"
+      ],
+      "serving_size": "1 salad",
+      "certifications": ["None"],
+      "food_item_name": "Caprese Salad",
+      "health_benefits": ["Rich in calcium", "Source of Vitamin C"],
+      "country_of_origin": "Italy",
+      "preparation_methods": [
+        "Slice tomatoes and mozzarella. Layer with basil leaves. Drizzle with olive oil and balsamic glaze. Season with salt and pepper."
+      ],
+      "dietary_restrictions": ["Vegetarian"],
+      "brand_or_manufacturer": "Mama Mia's Kitchen",
+      "nutritional_information": {
+        "fat": 12,
+        "fiber": 2,
+        "protein": 10,
+        "calories": 180,
+        "carbohydrates": 4
+      }
+    },
+    {
+      "allergens": ["None"],
+      "food_group": "Vegetables",
+      "description": "A fragrant curry made with mixed vegetables and spices.",
+      "ingredients": [
+        "Mixed Vegetables (Potatoes, Carrots, Peas, Cauliflower)",
+        "Coconut Milk",
+        "Curry Paste",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Cilantro"
+      ],
+      "serving_size": "1 cup",
+      "certifications": ["None"],
+      "food_item_name": "Vegetable Curry",
+      "health_benefits": ["Rich in antioxidants", "Source of fiber"],
+      "country_of_origin": "India",
+      "preparation_methods": [
+        "Sauté onions, garlic, and ginger. Add curry paste and coconut milk. Simmer with vegetables until tender. Garnish with cilantro."
+      ],
+      "dietary_restrictions": ["Vegetarian", "Vegan"],
+      "brand_or_manufacturer": "Spice Haven",
+      "nutritional_information": {
+        "fat": 10,
+        "fiber": 6,
+        "protein": 8,
+        "calories": 220,
+        "carbohydrates": 30
+      }
+    },
+    {
+      "allergens": ["Tree Nuts (if using almond milk)", "Peanuts"],
+      "food_group": "Nuts",
+      "description": "A creamy smoothie made with peanut butter, bananas, and almond milk.",
+      "ingredients": [
+        "Bananas",
+        "Peanut Butter",
+        "Almond Milk",
+        "Honey",
+        "Ice"
+      ],
+      "serving_size": "1 cup",
+      "certifications": ["Non-GMO", "Gluten-Free"],
+      "food_item_name": "Peanut Butter Banana Smoothie",
+      "health_benefits": ["Rich in potassium", "Good source of protein"],
+      "country_of_origin": "United States",
+      "preparation_methods": [
+        "Blend bananas, peanut butter, almond milk, honey, and ice until smooth."
+      ],
+      "dietary_restrictions": ["Vegetarian"],
+      "brand_or_manufacturer": "Nutty Smoothies",
+      "nutritional_information": {
+        "fat": 15,
+        "fiber": 5,
+        "protein": 10,
+        "calories": 280,
+        "carbohydrates": 30
+      }
+    }
+  ]
+}
